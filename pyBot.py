@@ -1,6 +1,8 @@
 #############################################################
 # This is PyBot! A simple chat bot programmed in Python.
-#
+# It was created for a high school workshop to show students
+# some simple things that they can do with programming.
+# 
 # Author: Paul Land
 #############################################################
 
