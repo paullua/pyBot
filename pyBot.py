@@ -21,7 +21,7 @@ def student():
     return input("User:  ")
 
 print("\n\tStarting chat")
-print("-----------------------------------------------------------------------")
+print("----------------------------------------------------------------------")
 time.sleep(5)
 
 # PyBot's standard greeting
@@ -107,5 +107,5 @@ while not correct_guess:
 pybot("Well, it's been fun chatting with you, " + student_name, 2)
 pybot("I hope to see you become a great programmer one day!", 2)
 pybot("Goodbye for now!", 1)
-print("-----------------------------------------------------------------------")
+print("----------------------------------------------------------------------")
 print("\tYour chat has ended\n")
